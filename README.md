@@ -1,3 +1,3 @@
 # HappySong
 Frosh Band's third pop song\
-Written Summer of 2018
+Written summer of 2018
